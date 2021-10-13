@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Communicating_Vessels/0.9": {
+        "runtime": {
+          "Communicating_Vessels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Communicating_Vessels/0.9": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
